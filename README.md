@@ -5,7 +5,6 @@
 - 🌱 I’m learning: Java, Spring Boot, React, and cybersecurity fundamentals.
 - 👯 I’m looking to collaborate on: social impact projects, startups, and open-source tools.
 - 📫 How to reach me: brunoibiapina@me.com | [Instagram](https://www.instagram.com/brunoibiapina) | [LinkedIn](https://www.linkedin.com/in/brunoibiapina)
-- 💬 Pronouns: he/him
 - 😄 Fun fact: I founded a delivery startup that reached over 40k users. I’m passionate about innovation, entrepreneurship, and creating meaningful solutions 🚀
 
 <!--
@@ -20,7 +19,6 @@
 - 🌱 Estou aprendendo: Java, Spring Boot, React e fundamentos de cibersegurança.
 - 👯 Procuro colaborar em: projetos com impacto social, startups e ferramentas open-source.
 - 📫 Como falar comigo: brunoibiapina@me.com | [Instagram](https://www.instagram.com/brunoibiapina) | [LinkedIn](https://www.linkedin.com/in/brunoibiapina)
-- 💬 Pronomes: ele/dele
 - 😄 Curiosidade: Fundador de uma startup com mais de 40 mil usuários. Sou apaixonado por inovação, empreendedorismo e soluções que fazem a diferença 🚀
 
 <!--
