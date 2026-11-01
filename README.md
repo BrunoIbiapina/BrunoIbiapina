@@ -14,7 +14,7 @@ Uso IA como parte do método de trabalho: agentes que planejam, revisam código 
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **Papalegua** | Plataforma de entregas em Teresina: app do cliente, app do entregador, painel do gestor e a API que decide status, repasse e cobrança | Laravel, MySQL, Kotlin, Swift, React, Docker |
+| **Papalegua** | Plataforma de entregas em Teresina, com mais de 1.000 pedidos por mês, 300+ empresas e 3.000+ entregadores cadastrados: app do cliente, app do entregador, painel do gestor e a API que decide status, repasse e cobrança | Laravel, MySQL, Kotlin, Swift, React, Docker |
 | **[Nossas Viagens](https://apps.apple.com/app/id6825852602)** | App de viagens na App Store: roteiro dia a dia, reservas, gastos com câmbio e uma IA que monta o roteiro | React, Capacitor, Node, SQLite |
 | **OpenCourt** | Gestão de torneios de tênis: inscrição, chaveamento, ranking e quadras | Next.js, Supabase, Postgres |
 | **Ponteiros Premium** | Vitrine de relojoaria com painel do lojista, rodando na borda da Cloudflare | Next.js, Cloudflare D1/R2 |
@@ -35,7 +35,7 @@ O código desses produtos é privado. Telas, demonstrações e detalhes estão n
 
 #### Setor público
 
-Desenvolvedor full-stack no Núcleo Estratégico de Tecnologia e Governo Digital do Piauí: Next.js, FastAPI, PostgreSQL, Trino/Iceberg, Airflow e IA aplicada a processos do Estado.
+Desenvolvedor full-stack no Núcleo Estratégico de Tecnologia e Governo Digital do Piauí, no Visualizador de Processos do SEI, hoje em fase de testes na maioria dos órgãos do Estado: Next.js, FastAPI, PostgreSQL, Trino/Iceberg, Airflow e IA aplicada a processos.
 
 #### Stack
 
