@@ -1,4 +1,4 @@
-### Bruno Ibiapina
+![Bruno Ibiapina, desenvolvedor full-stack e mobile](banner.png)
 
 Desenvolvedor full-stack e mobile em Teresina, estudante de Engenharia de Software no iCEV (conclusão em dez/2027).
 Construo produto de ponta a ponta: API, painel web, apps Android e iOS e a infraestrutura que mantém tudo no ar.
@@ -27,6 +27,11 @@ O código desses produtos é privado. Telas, demonstrações e detalhes estão n
 - **[FluxVision](https://github.com/BrunoIbiapina/fluxvision)**: visão computacional que conta veículos em vídeo de câmera de rua (YOLO, RT-DETR).
 - **[Bolão Pro](https://github.com/BrunoIbiapina/bolaopro)**: bolões com palpites, ranking ao vivo e PIX (NestJS, Prisma, Next.js). [Demonstração](https://bolaopro-eight.vercel.app).
 - **[Findback](https://github.com/BrunoIbiapina/app-achadoseperdidos)**: app de achados e perdidos em Flutter.
+
+#### Em construção
+
+- **Achei**: app de promoções locais com um código só para iPhone, Android e web (Expo, React Native), API em Node com Fastify e PostgreSQL.
+- **Cantina**: pedidos antecipados com API pura em Laravel e contrato OpenAPI, máquina de estados com 51 transições e 762 testes automatizados no backend.
 
 #### Setor público
 
