@@ -24,7 +24,7 @@ O código desses produtos é privado. Telas, demonstrações e detalhes estão n
 #### Engenharia e dados
 
 - **Motor de xadrez em C++20**, feito em equipe para o Chess Challenge III do iCEV: bitboards, busca em paralelo, avaliação ajustada por Texel tuning e gestão de tempo própria. Nenhuma mudança entra sem medição em torneio automático.
-- **[FluxVision](https://github.com/BrunoIbiapina/IAmonitoramentodetrasito)**: visão computacional que conta veículos em vídeo de câmera de rua (YOLO, RT-DETR).
+- **[FluxVision](https://github.com/BrunoIbiapina/fluxvision)**: visão computacional que conta veículos em vídeo de câmera de rua (YOLO, RT-DETR).
 - **[Bolão Pro](https://github.com/BrunoIbiapina/bolaopro)**: bolões com palpites, ranking ao vivo e PIX (NestJS, Prisma, Next.js). [Demonstração](https://bolaopro-eight.vercel.app).
 - **[Findback](https://github.com/BrunoIbiapina/app-achadoseperdidos)**: app de achados e perdidos em Flutter.
 
