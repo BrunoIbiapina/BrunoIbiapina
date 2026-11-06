@@ -1,4 +1,4 @@
-![Bruno Ibiapina, desenvolvedor full-stack e mobile](banner.png)
+![Bruno Ibiapina: do banco de dados à loja de aplicativos](banner.png)
 
 Desenvolvedor full-stack e mobile em Teresina, estudante de Engenharia de Software no iCEV (conclusão em dez/2027).
 Construo produto de ponta a ponta: API, painel web, apps Android e iOS e a infraestrutura que mantém tudo no ar.
